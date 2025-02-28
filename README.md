@@ -7,12 +7,12 @@
 
 ## 🔹 Skills & Tools:
 
-- **Power BI & Tableau** – Interactive dashboards & reports
+- **Power BI** – Interactive dashboards & reports
 - **Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)** – Data analysis & machine learning
 - **R** – Statistical analysis & data modeling
 - **Forecasting & Trend Analysis** – Business insights & predictions
 - **HTML & C** – Web development basics
-- **Adobe Photoshop, Illustrator, InDesign & Premiere Pro** – Graphic design & video editing
+- **Adobe Photoshop, Illustrator, Premiere Pro** – Graphic design & video editing
 
 ## 💡 What I Work On:
 
@@ -33,7 +33,6 @@ I love connecting with like-minded professionals. Feel free to explore my projec
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)  
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
