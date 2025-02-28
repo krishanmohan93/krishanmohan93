@@ -1,26 +1,34 @@
+
 # 💫 About Me:
-👋 Hi, I'm **Krishanmohan Kumar**, a data-driven professional with a passion for analytics, visualization, and automation. I enjoy transforming complex datasets into clear, actionable insights.
+👋 Hi, I'm **Krishanmohan Kumar**, a passionate data science enthusiast aspiring to become an **ML Expert**. With a keen interest in analytics, visualization, and automation, I love transforming complex datasets into clear, actionable insights. Additionally, I am exploring business ideas and creative ventures to build something impactful.
+
+## 🎓 Education:
+- **Pursuing BCA in Data Science** – Sri Balaji University, Pune
 
 ## 🔹 Skills & Tools:
 
 - **Power BI & Tableau** – Interactive dashboards & reports
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data analysis & visualization
+- **Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)** – Data analysis & machine learning
 - **R** – Statistical analysis & data modeling
 - **Forecasting & Trend Analysis** – Business insights & predictions
+- **HTML & C** – Web development basics
+- **Adobe Photoshop, Illustrator, InDesign & Premiere Pro** – Graphic design & video editing
 
 ## 💡 What I Work On:
 
 - 📊 Building insightful business intelligence dashboards
+- 🤖 Building ML models to solve real-world problems
 - 📈 Analyzing trends to drive data-driven decision-making
 - ⚙️ Automating workflows for efficiency
 - 🎨 Exploring new ways to enhance data storytelling
+- 🚀 Working on business ideas and branding materials
 
 ## 🚀 Let's Collaborate!
 I love connecting with like-minded professionals. Feel free to explore my projects and reach out!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishanmohan_kumar93?igsh=MWQ0aGR0eGk2bmQzZw==) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishanmohankumar93?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
